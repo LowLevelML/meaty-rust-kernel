@@ -1,0 +1,1 @@
+- install rustup toolchain for riscv64
