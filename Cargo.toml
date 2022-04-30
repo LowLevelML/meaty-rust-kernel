@@ -3,6 +3,9 @@ name = "blog_os"
 version = "0.0.1"
 authors = ["Thamognya Kodi <contact@thamognya.com>"]
 edition = "2021"
+categories = ["kernel", "os", "meaty-kernel"]
+description = "A simple meaty-rust-kernel"
+keywords = ["riscv", "kernel", "meaty-kernel", "embedded", "hardware-support", "no-std"]
 
 [[test]]
 name = "should_panic"
