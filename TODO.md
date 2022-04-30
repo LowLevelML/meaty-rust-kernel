@@ -1,1 +1,1 @@
-- install rustup toolchain for riscv64
+- install rustup toolchain for riscv64 (have to make a new kernel)
