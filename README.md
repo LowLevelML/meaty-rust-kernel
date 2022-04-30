@@ -9,3 +9,9 @@ To run with qemu:
 ```sh
 cargo run
 ```
+
+## Screenshots
+
+### 1
+
+![A inital screenshot of how it is right now](./assets/screenshots/1.png)
